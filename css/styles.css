@@ -57,7 +57,7 @@ body {
   background-color: var(--white);
 }
 
-body.modal-open {
+.modal-open {
   overflow: hidden;
 }
 
